@@ -1,0 +1,88 @@
+
+body{	background-color:#3b3b3b;
+	margin: 50px;}
+
+
+
+
+.header{
+    background-color:#6EDDFF;
+    height: 50px;
+    margin: -20px;
+    }
+
+
+nav ul li{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    display: inline-block;}
+    
+
+li{color:#ECECECFF;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: disc;
+    margin: 15px; 
+}
+
+
+.menu {color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    text-decoration: none;
+    text-align: left;
+}
+
+h2{color: rgb(0, 238, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+h3{color: rgb(0, 238, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    text-decoration: none;}
+
+
+.page{font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    text-decoration: underline;}
+
+
+a{font-family: Arial, Helvetica, sans-serif;
+    color: #53abf3 ;
+    list-style-type: underline;
+    text-align: left;
+    margin: 15px;}
+
+
+.big{font-size:20px;}
+.boil{font-weight: 600}
+
+
+.sommaire{font-size:17px;
+    text-decoration: none;
+    color: #53abf3;
+    font-weight: bolder;
+    background: none;}
+	
+.img01 {
+    height: 270px;
+    width: 480px;
+
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ECECECFF;
+
+}
+
+.br5{font-size: 5px}
+
+#pict1{height: 300px}
+#pict2{height: 2cm}
+#pict3{height: 15cm}
